@@ -46,6 +46,7 @@ setup(
         "tutor>=13.0.0,<14.0.0",
         "requests",
         "pydantic",
+        "importlib-resources==6.1.1",
     ],
     extras_require={
         "dev": [
